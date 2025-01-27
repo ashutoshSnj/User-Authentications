@@ -44,8 +44,8 @@ The application follows a **5-layer architecture** for scalability and maintaina
 ![Authentication Success](UserAuthentication/src/main/webapp/Successfully_login.png.png)
 
 ### 3. Authentication Failure
-![Authentication Failure](webapp/not_login.png.png)
----
+![Authentication Failure](UserAuthentication/src/main/webapp/not_login.png.png)
+
 
 ## Installation and Setup
 
