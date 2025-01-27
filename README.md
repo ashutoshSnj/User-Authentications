@@ -38,13 +38,13 @@ The application follows a **5-layer architecture** for scalability and maintaina
 
 ## Screenshots
 ### 1. Login Page
-![Login Page](webapp/login_page.png)
+![Login Page](webapp/login_page.png.png)
 
 ### 2. Authentication Success
-![Authentication Success](webapp/Successfully_login.png)
+![Authentication Success](webapp/Successfully_login.png.png)
 
 ### 3. Authentication Failure
-![Authentication Failure](webapp/not_login.png)
+![Authentication Failure](webapp/not_login.png.png)
 ---
 
 ## Installation and Setup
