@@ -1,6 +1,4 @@
-package com.user.Authentication;
-
-
+package Com.User.Authentication;
 
 public class DefaultDataStore implements interface_for_data {
 	//This class is designed to handle scenarios where the input file
@@ -11,6 +9,12 @@ public class DefaultDataStore implements interface_for_data {
 	
 	@Override
 	public boolean verifydata(User ref) {
+		return false;
+	}
+
+	@Override
+	public boolean storeData(User ref) {
+		// TODO Auto-generated method stub
 		return false;
 	}
 
